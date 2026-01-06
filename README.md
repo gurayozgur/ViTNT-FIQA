@@ -68,5 +68,5 @@ Error-versus-Discard Characteristic (EDC) curves at FMR=1e-3 across 8 benchmark 
 
 ## License
 >This project is licensed under the terms of the **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.  
-Copyright (c) 2025 Fraunhofer Institute for Computer Graphics Research IGD Darmstadt  
+Copyright (c) 2026 Fraunhofer Institute for Computer Graphics Research IGD Darmstadt  
 For more details, please take a look at the [LICENSE](./LICENSE) file.
