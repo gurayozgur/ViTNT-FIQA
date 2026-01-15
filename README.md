@@ -1,6 +1,6 @@
 # ViTNT-FIQA: Training-Free Face Image Quality Assessment with Vision Transformers
 
-This repository contains the official implementation of the paper **"[ViTNT-FIQA: Training-Free Face Image Quality Assessment with Vision Transformers]()"**, accepted at WACV2026 Workshops.
+This repository contains the official implementation of the paper **"[ViTNT-FIQA: Training-Free Face Image Quality Assessment with Vision Transformers](https://arxiv.org/pdf/2601.05741)"**, accepted at WACV2026 Workshops.
 
 ## Overview
 
@@ -63,7 +63,15 @@ Error-versus-Discard Characteristic (EDC) curves at FMR=1e-3 across 8 benchmark 
 
 ## Citation
 ```
-
+@misc{ozgur2026vitntfiqatrainingfreefaceimage,
+      title={ViTNT-FIQA: Training-Free Face Image Quality Assessment with Vision Transformers}, 
+      author={Guray Ozgur and Eduarda Caldeira and Tahar Chettaoui and Jan Niklas Kolf and Marco Huber and Naser Damer and Fadi Boutros},
+      year={2026},
+      eprint={2601.05741},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2601.05741}, 
+}
 ```
 
 ## License
